@@ -49,7 +49,7 @@
 /* homepage */
 
 #hero{
-    background-image: url(/hero-img/hellohero.jpg);
+    background-image: url(hero-img/hellohero.jpg);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -199,7 +199,7 @@ button.normal{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/hero-img/banner.jpg);
+    background-image: url(hero-img/banner.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
