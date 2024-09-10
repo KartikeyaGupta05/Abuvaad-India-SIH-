@@ -4,7 +4,7 @@ body {margin: 0;
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background-image: url(/login/bbglogin.jpg);
+    background-image: url(login/bbglogin.jpg);
     height: 100vh;
     width: 100%;
     background-size: cover;
