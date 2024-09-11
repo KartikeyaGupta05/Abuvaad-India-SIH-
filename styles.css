@@ -355,3 +355,33 @@ outline: none;
     top: 0;
     right: 0;
 }
+
+
+/* cart */
+
+.cart-car{
+    height: 70vh;
+    width: 95%;
+    margin: 30px;
+    background-color: rgb(255, 243, 220);
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: solid 5px black;
+    border-radius: 9px;
+
+}
+
+#text{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 90px;
+}
+.cart h1 span{color: #088178;
+
+}
+#text2{
+    text-align: center;
+    line-height: 52px;
+    color: rgb(42, 3, 215);
+}
